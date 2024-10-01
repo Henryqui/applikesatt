@@ -12,17 +12,17 @@ export function Comment() {
                         <div className={styles.authorAndTime}>
                             <strong>Henryqui Bacellar</strong>
                             <time title="10 de Setembro as 09:44h" dateTime='2024/10/10 09:44:00'> há 1h atrás</time>
+                        </div>
                             <button title='Excluir Comentário'>
                                 <Trash size={24}/>
                             </button>
-                        </div>
                     </header>
                     <p>Muito bem Henryqui, Parabéns !!!</p>
                 </div>
                 <footer>
                     <button>
                         <ThumbsUp size={20}/>
-                        curtir <span>20</span>
+                        Curtir <span>20</span>
                     </button>
                 </footer>
             </div>
