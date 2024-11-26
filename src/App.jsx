@@ -20,7 +20,7 @@ const posts = [
     content: [
       {type: 'paragraph', content: 'Fala Galera 🐱‍🚀!!'},
       {type: 'paragraph', content: 'Amanhã teremos viagem à Bienal'},
-      {type: 'link', content: 'uol.com.br'},
+      {type: 'link', content: 'https://uol.com.br'},
     ],
     dataPublicacao: new Date('2024/10/10 09:44:00')
 
@@ -35,7 +35,7 @@ const posts = [
     content: [
       {type: 'paragraph', content: 'Fala Galera ✨!!'},
       {type: 'paragraph', content: 'Vou viajar para a Cijun'},
-      {type: 'link', content: 'g1.com.br'},
+      {type: 'link', content: 'https://g1.com.br'},
     ],
     dataPublicacao: new Date('2024/05/11 09:44:00')
 
